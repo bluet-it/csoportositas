@@ -1,0 +1,10 @@
+E:\projects\c#\csoportositas\csoportositas\bin\Debug\csoportositas.exe.config
+E:\projects\c#\csoportositas\csoportositas\bin\Debug\csoportositas.exe
+E:\projects\c#\csoportositas\csoportositas\bin\Debug\csoportositas.pdb
+E:\projects\c#\csoportositas\csoportositas\obj\Debug\csoportositas.Form1.resources
+E:\projects\c#\csoportositas\csoportositas\obj\Debug\csoportositas.Properties.Resources.resources
+E:\projects\c#\csoportositas\csoportositas\obj\Debug\csoportositas.csproj.GenerateResource.cache
+E:\projects\c#\csoportositas\csoportositas\obj\Debug\csoportositas.csproj.CoreCompileInputs.cache
+E:\projects\c#\csoportositas\csoportositas\obj\Debug\csoportositas.exe
+E:\projects\c#\csoportositas\csoportositas\obj\Debug\csoportositas.pdb
+E:\projects\c#\csoportositas\csoportositas\obj\Debug\csoportositas.csprojAssemblyReference.cache
